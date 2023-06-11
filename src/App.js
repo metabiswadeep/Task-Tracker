@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import Tasks from "./components/Tasks";
 import {useState,useEffect} from 'react'
 import AddTask from "./components/AddTask";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 
 const App = () => {
